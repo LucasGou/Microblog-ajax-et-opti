@@ -16,5 +16,5 @@ Il faut au minimum:
 - 1 lettre majuscule 
 - 1 lettre minuscule
 
-message d'erreur quand données erronées dans le formulaire.
-message de validation quand données correcte.
+-message d'erreur quand données erronées dans le formulaire.
+-message de validation quand données correcte.
